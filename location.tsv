@@ -1,7 +1,7 @@
 location_name	position	rotation	main_location_name
 Inside the Restaurant	(0,0,900)	(0,0,0,0)	Front of Restaurant
 Garden of Restaurant	(928.0, -29.0, 372.9)	(0.1, 0.6, -0.1, 0.8)	Front of Restaurant
-Back of Restaurant	(16.9, 76.2, -997.3)	(0.0, -1.0, 0.1, 0.0)	Inside the Restaurant
+Back of Restaurant	(16.9, 76.2, -997.3)	(0.0, -1.0, 0.0, 0.1)	Inside the Restaurant
 Front of Restaurant	(-52.6, -61.0, 997.2)	(0.0, 0.0, 0.0, 1.0)	Inside the Restaurant
 Garden of Restaurant	(-950.8, 23.5, -310.1)	(0.1, -0.8, 0.0, 0.6)	Inside the Restaurant
 Front of Restaurant	(-502.9, 20.6, 864.4)	(0.1, -0.2, 0.0, 1.0)	Garden of Restaurant
